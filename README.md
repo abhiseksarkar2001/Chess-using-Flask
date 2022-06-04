@@ -10,3 +10,9 @@ Install flask by running:
 
 Install python chess by running:
     pip install python-chess[uci,gaviota]
+
+Now flask_app.py by running:
+    python flask_app.py
+
+Now copy the link where it is running (Example: http://127.0.0.1.5000/)
+Paste the link in your browser and then you will be able to play the game.
